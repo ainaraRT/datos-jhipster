@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.cev.accesoadatos.tema2.jhipster"
+    },
+    "jhipsterVersion": "6.3.1",
+    "applicationType": "monolith",
+    "baseName": "jhipster",
+    "packageName": "com.cev.accesoadatos.tema2.jhipster",
+    "packageFolder": "com/cev/accesoadatos/tema2/jhipster",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MjVjNDY1ZGM5NjA0NjFlNDMyZjdlYWMwZGQwNmNiMzJhYmVjY2YzYzZjODQ0ZmQ5Nzk2ZTc3MzdkZmVlNDAwMjVkMjA1Zjk5ZmMzNTI5OTE2OGVkZWViNTMxMTNmZmQzZTJjZTRiZWU5NjQzZGI4MjNmMWVmY2RiMDY4NjY5YmM=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
